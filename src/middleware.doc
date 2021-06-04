@@ -1,0 +1,4 @@
+Là phần mềm trung gian đứng giữa  các thành phần trong mô hình
+ 
+Browser =======Request=========> Server (Node)
+Browser <=======Response========= Server (Node)
